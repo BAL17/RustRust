@@ -1,0 +1,9 @@
+/Users/brandonstegall/dev/RustRust/memory/target/debug/deps/libi_slint_renderer_femtovg-c3cc032172a43663.rmeta: /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/lib.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/fonts.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/images.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/itemrenderer.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/README.md
+
+/Users/brandonstegall/dev/RustRust/memory/target/debug/deps/i_slint_renderer_femtovg-c3cc032172a43663.d: /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/lib.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/fonts.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/images.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/itemrenderer.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/README.md
+
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/lib.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/fonts.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/images.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/itemrenderer.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-renderer-femtovg-1.3.2/README.md:

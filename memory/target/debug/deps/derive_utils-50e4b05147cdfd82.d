@@ -1,0 +1,10 @@
+/Users/brandonstegall/dev/RustRust/memory/target/debug/deps/libderive_utils-50e4b05147cdfd82.rmeta: /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/lib.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/error.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/ast.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/parse.rs
+
+/Users/brandonstegall/dev/RustRust/memory/target/debug/deps/libderive_utils-50e4b05147cdfd82.rlib: /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/lib.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/error.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/ast.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/parse.rs
+
+/Users/brandonstegall/dev/RustRust/memory/target/debug/deps/derive_utils-50e4b05147cdfd82.d: /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/lib.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/error.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/ast.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/parse.rs
+
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/lib.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/error.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/ast.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_utils-0.13.2/src/parse.rs:

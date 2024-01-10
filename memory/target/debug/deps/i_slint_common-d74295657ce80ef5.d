@@ -1,0 +1,10 @@
+/Users/brandonstegall/dev/RustRust/memory/target/debug/deps/libi_slint_common-d74295657ce80ef5.rmeta: /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/lib.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/builtin_structs.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/enums.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/key_codes.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/sharedfontdb.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/README.md
+
+/Users/brandonstegall/dev/RustRust/memory/target/debug/deps/i_slint_common-d74295657ce80ef5.d: /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/lib.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/builtin_structs.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/enums.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/key_codes.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/sharedfontdb.rs /Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/README.md
+
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/lib.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/builtin_structs.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/enums.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/key_codes.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/sharedfontdb.rs:
+/Users/brandonstegall/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-common-1.3.2/README.md:
